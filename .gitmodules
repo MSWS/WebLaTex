@@ -1,3 +1,6 @@
 [submodule "MATH-341"]
 	path = MATH-341
 	url = https://github.com/MSWS/MATH-341
+[submodule "MCS-375"]
+	path = MCS-375
+	url = git@github.com:MSWS/MCS-375.git
