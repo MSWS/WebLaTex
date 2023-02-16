@@ -32,7 +32,7 @@
 
 ## Screenshot
 
-![Screenshot](images/screenshot.png)
+![Screenshot](https://github.com/sanjib-sen/WebLaTex/blob/main/images/screenshot.png?raw=true)
 
 ## Why
 
@@ -66,7 +66,7 @@ Yes, but
 2. Fork this repository or just click [Here](https://github.com/sanjib-sen/weblatex/fork). Or, If you want to use as a template just Click on `Use this template` and `Create a new Repository`
 3. Give it a name and select **Create Fork / Create repository from template**
 4. Select **<> Code** > **CodeSpaces** > **Create Codespace on Main**
-    ![tutorial](images/tutorial.gif)
+    ![tutorial](https://github.com/sanjib-sen/WebLaTex/blob/main/images/tutorial.gif?raw=true)
 5. It will start installing. **You Have to wait for 2 mins in the first time**. After that it will take 2/3 seconds to open up
 
 ## Where is my PDF?
@@ -155,7 +155,7 @@ This editor has built-in [LanguageTool](https://languagetool.org) support for `B
 
 Just click on the **Live Share** Sidebar button and you are good to go
 
-![Collaboration](images/collaborate.png)
+![Collaboration](https://github.com/sanjib-sen/WebLaTex/blob/main/images/collaborate.png?raw=true)
 
 If you do not need the Live Collaboration at all, you can just **remove** or **comment out** the `"ms-vsliveshare.vsliveshare"` extension from the extensions list in `./.devcontainer/devcontainer.json` file.
 
